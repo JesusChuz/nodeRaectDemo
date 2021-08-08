@@ -1,0 +1,29 @@
+{
+  "name": "express-react-starter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cloudinary": "^1.26.3",
+    "connect-multiparty": "^2.2.0",
+    "cookie-parser": "^1.4.3",
+    "debug": "~2.6.3",
+    "episode-7": "^1.1.2",
+    "express": "^4.15.3",
+    "image-size": "^1.0.0",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.5",
+    "morgan": "^1.8.2",
+    "node-fetch": "^2.6.1",
+    "pify": "^5.0.0",
+    "react-dom": "^16.6.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "sharp": "^0.28.3"
+  },
+  "scripts": {
+    "start": "./server.js"
+  }
+}
